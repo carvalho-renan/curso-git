@@ -8,9 +8,10 @@ namespace Aula {
     class Program {
         static void Main(string[] args) {
 
+            Console.WriteLine("------------");
             Console.WriteLine("Ola mundo");
             Console.WriteLine("Boa tarde!");
-            Console.WriteLine("Como você está?");
+            Console.WriteLine("------------");
         }
     }
 }
