@@ -9,6 +9,7 @@ namespace Aula {
         static void Main(string[] args) {
 
             Console.WriteLine("Ola mundo");
+            Console.WriteLine("Boa tarde!");
         }
     }
 }
