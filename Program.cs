@@ -13,7 +13,7 @@ namespace Aula {
             Console.WriteLine("Boa tarde!");
             Console.WriteLine("------------");
 
-            Console.WriteLine("!!!!!!!!!!!!");
+            Console.WriteLine("Teste");
         }
     }
 }
